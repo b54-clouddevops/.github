@@ -17,11 +17,12 @@ https://miro.com/app/board/uXjVMJaglhE=/?share_link_id=909217767040
 https://gitlab.com/thecloudcareers/opensource/-/blob/master/aws-account-creation/README.md
 ```
 
-### Linux Learning AMI To Use
+### Linux Learning AMI To Use ( Image is available in N.Virginia )
 
 ```
 AMI NAME    : Centos7-Linux-Learning-AMI
 Credentials : centos / Password123 
+Region      : N.Virginia
 ```
 
 ### GitHub Code :
