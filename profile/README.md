@@ -1,4 +1,4 @@
-## Hi there 👋 , this information is created for batch54 **
+## Hi there 👋 , this information is created for batch54
 
 ### Batch54 Youtube Videos :
 
