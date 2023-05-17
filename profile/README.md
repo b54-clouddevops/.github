@@ -25,7 +25,7 @@ Credentials : centos / Password123
 Region      : N.Virginia
 ```
 
-### GitHub Code :
+### Projects :
 ```
 https://github.com/b54-clouddevops/
 ```
