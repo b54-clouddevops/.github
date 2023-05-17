@@ -1,19 +1,8 @@
-## Hi there 👋
-
-<!--
-
-** This information is created for batch54 **
-
-🙋‍♀️ YouTube Videos
-🌈 Miro Board
--->
-
-# .github
+## Hi there 👋 , this information is created for batch54 **
 
 ### Batch54 Youtube Videos :
 
 ```
-Playlist URL :
 https://www.youtube.com/playlist?list=PLPWyJYiAyYNuZBLtKiCMoCeBq3rqI--9Z
 ```
 
@@ -22,6 +11,11 @@ https://www.youtube.com/playlist?list=PLPWyJYiAyYNuZBLtKiCMoCeBq3rqI--9Z
 https://miro.com/app/board/uXjVMJaglhE=/?share_link_id=909217767040
 ```
 
+### AWS Account Creation Procedure 
+
+```
+https://gitlab.com/thecloudcareers/opensource/-/blob/master/aws-account-creation/README.md
+```
 
 ### GitHub Code :
 ```
