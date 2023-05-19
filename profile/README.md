@@ -25,6 +25,13 @@ Credentials : centos / Password123
 Region      : N.Virginia
 ```
 
+### Linux-Notes
+
+```
+https://github.com/b54-clouddevops/Linux-Notes#readme
+```
+
+
 ### Projects :
 ```
 https://github.com/b54-clouddevops/
